@@ -217,3 +217,5 @@ ls --color=auto
 touch package.json
 touch server.json
 touch server.js
+rm server.json
+touch README.md
