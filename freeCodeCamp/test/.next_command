@@ -53,3 +53,5 @@ ls --color=auto
 more LICENSE-MIT
 clear
 ls --color=auto
+cs src/
+cd src/
