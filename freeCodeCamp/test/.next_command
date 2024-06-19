@@ -30,3 +30,6 @@ pwd
 ls --color=auto
 cd freeCodeCamp/
 pwd
+__vsc_prompt_cmd_original
+clear
+ls --color=auto
