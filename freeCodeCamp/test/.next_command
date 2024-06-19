@@ -188,3 +188,6 @@ find client/assets/images
 find
 clear
 rmdir images/
+cd images/
+ls --color=auto
+rm background.jpg
