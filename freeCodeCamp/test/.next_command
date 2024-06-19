@@ -222,3 +222,4 @@ touch README.md
 ls --color=auto
 clear
 echo Yay!
+echo I finished the boilerplate!
