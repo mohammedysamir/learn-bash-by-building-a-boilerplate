@@ -102,3 +102,4 @@ rm codeRoad.svg
 clear
 touch freeCodeCamp.svg
 ls --color=auto
+mkdir images
