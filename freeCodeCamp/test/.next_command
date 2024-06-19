@@ -71,3 +71,5 @@ cd website/
 __vsc_prompt_cmd_original
 clear
 ls --color=auto
+__vsc_prompt_cmd_original
+echo hello website
