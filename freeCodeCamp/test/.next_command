@@ -130,3 +130,5 @@ ls --color=auto
 clear
 mkdir fonts/
 ls --color=auto
+mv lato.ttf fonts/
+mv roboto.woff fonts/
