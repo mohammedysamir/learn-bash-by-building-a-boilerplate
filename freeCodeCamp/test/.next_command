@@ -133,3 +133,10 @@ ls --color=auto
 mv lato.ttf fonts/
 mv roboto.woff fonts/
 find
+mv /fonts/lato.tff /fonts/lato.tff
+cd fonts/
+mv lato.ttf ./
+mv lato.ttf ../
+cd ..
+ls --color=auto
+mv lato.ttf fonts/
