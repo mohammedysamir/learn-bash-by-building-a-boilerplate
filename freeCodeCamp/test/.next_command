@@ -33,3 +33,4 @@ pwd
 __vsc_prompt_cmd_original
 clear
 ls --color=auto
+cd test/
