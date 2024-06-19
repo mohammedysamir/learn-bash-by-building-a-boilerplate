@@ -74,3 +74,6 @@ ls --color=auto
 __vsc_prompt_cmd_original
 echo hello website
 touch index.html
+__vsc_prompt_cmd_original
+clear
+touch styles.css
