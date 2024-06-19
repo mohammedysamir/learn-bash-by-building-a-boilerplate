@@ -220,3 +220,5 @@ touch server.js
 rm server.json
 touch README.md
 ls --color=auto
+clear
+echo Yay!
