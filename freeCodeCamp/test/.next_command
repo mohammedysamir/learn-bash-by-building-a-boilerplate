@@ -98,3 +98,6 @@ clear
 touch CodeAlly.svg
 touch codeRoad.svg
 touch CodeRoad.svg
+rm codeRoad.svg
+clear
+touch freeCodeCamp.svg
